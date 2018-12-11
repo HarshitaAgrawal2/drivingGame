@@ -1,3 +1,3 @@
 # drivingGame
-This is a interesting Truck driving game.
+This is an interesting Truck driving game.
 Visit Assets/scripts to see the coding!
