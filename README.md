@@ -1,3 +1,3 @@
 # drivingGame
 This is a interesting Truck driving game.
-Visit Assets/Scripts to see the coding!
+Visit Assets/scripts to see the coding!
